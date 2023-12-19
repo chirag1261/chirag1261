@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chiragkrkashyap@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wK6Tg5VE1eSeT3_IJJPGUC2T-CSZ3lh6/view](https://drive.google.com/file/d/1wK6Tg5VE1eSeT3_IJJPGUC2T-CSZ3lh6/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LG9HBZ89de3sPe6ebCiqyvtMW78pMdey/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
