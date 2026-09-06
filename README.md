@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **chiragkrkashyap@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LG9HBZ89de3sPe6ebCiqyvtMW78pMdey/view]
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chiragkrkashya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragkrkashya1" height="30" width="40" /></a>
