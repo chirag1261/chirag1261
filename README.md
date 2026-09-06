@@ -7,13 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/chiragkrkashya1" target="blank"><img src="https://img.shields.io/twitter/follow/chiragkrkashya1?logo=twitter&style=for-the-badge" alt="chiragkrkashya1" /></a> </p>
 
-- 🔭 I’m currently working on **ED-Tech Project**
 
-- 🌱 I’m currently learning **MEARN, NEXT.js, Flutter**
+- 👨‍💻 All of my projects are available at [https://chiragkrkashyap.co.in/](https://chiragkrkashyap.co.in/)
 
-- 👨‍💻 All of my projects are available at [https://chirag1261.github.io/Portfolio.github.io/](https://chirag1261.github.io/Portfolio.github.io/)
-
-- 💬 Ask me about **React, SQL, PHP, ASP.net**
+- 💬 Ask me about **React.js, HTML, CSS, Javascript, Node.js, Next.js, Nest.js, Express.js, MongoDB, Redux Saga, SQL, PHP, ASP.net**
 
 - 📫 How to reach me **chiragkrkashyap@gmail.com**
 
